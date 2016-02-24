@@ -1,0 +1,17 @@
+{
+  "name": "techevents-nw-status-bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot for North West Tech Community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azizur Rahman (@azizur)",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^2.1.7",
+    "lodash": "^4.5.1",
+    "moment": "^2.11.2"
+  }
+}
